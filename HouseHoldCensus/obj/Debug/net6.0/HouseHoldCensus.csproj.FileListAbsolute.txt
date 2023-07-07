@@ -1,0 +1,15 @@
+C:\Users\ripbi\Downloads\HouseHoldCensus\bin\Debug\net6.0\HouseHoldCensus.exe
+C:\Users\ripbi\Downloads\HouseHoldCensus\bin\Debug\net6.0\HouseHoldCensus.deps.json
+C:\Users\ripbi\Downloads\HouseHoldCensus\bin\Debug\net6.0\HouseHoldCensus.runtimeconfig.json
+C:\Users\ripbi\Downloads\HouseHoldCensus\bin\Debug\net6.0\HouseHoldCensus.dll
+C:\Users\ripbi\Downloads\HouseHoldCensus\bin\Debug\net6.0\HouseHoldCensus.pdb
+C:\Users\ripbi\Downloads\HouseHoldCensus\obj\Debug\net6.0\HouseHoldCensus.csproj.AssemblyReference.cache
+C:\Users\ripbi\Downloads\HouseHoldCensus\obj\Debug\net6.0\HouseHoldCensus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ripbi\Downloads\HouseHoldCensus\obj\Debug\net6.0\HouseHoldCensus.AssemblyInfoInputs.cache
+C:\Users\ripbi\Downloads\HouseHoldCensus\obj\Debug\net6.0\HouseHoldCensus.AssemblyInfo.cs
+C:\Users\ripbi\Downloads\HouseHoldCensus\obj\Debug\net6.0\HouseHoldCensus.csproj.CoreCompileInputs.cache
+C:\Users\ripbi\Downloads\HouseHoldCensus\obj\Debug\net6.0\HouseHoldCensus.dll
+C:\Users\ripbi\Downloads\HouseHoldCensus\obj\Debug\net6.0\refint\HouseHoldCensus.dll
+C:\Users\ripbi\Downloads\HouseHoldCensus\obj\Debug\net6.0\HouseHoldCensus.pdb
+C:\Users\ripbi\Downloads\HouseHoldCensus\obj\Debug\net6.0\HouseHoldCensus.genruntimeconfig.cache
+C:\Users\ripbi\Downloads\HouseHoldCensus\obj\Debug\net6.0\ref\HouseHoldCensus.dll
